@@ -1,0 +1,20 @@
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\bin\Debug\Exiff değiştirici.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\bin\Debug\Exiff değiştirici.exe
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\bin\Debug\Exiff değiştirici.pdb
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff değiştirici.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff_değiştirici.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff_değiştirici.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff değiştirici.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff değiştirici.exe
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff değiştirici.pdb
+c:\users\emre\documents\visual studio 2017\Projects\Exiff değiştirici\Exiff değiştirici\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\bin\Debug\Exiff değiştirici.exe.config
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\bin\Debug\Exiff değiştirici.exe
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\bin\Debug\Exiff değiştirici.pdb
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff değiştirici.csprojResolveAssemblyReference.cache
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff_değiştirici.Form1.resources
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff_değiştirici.Properties.Resources.resources
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff değiştirici.csproj.GenerateResource.Cache
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff değiştirici.exe
+C:\Users\emre\Desktop\İş dosyaları\Exif değiştirici yazılım\Exiff değiştirici\Exiff değiştirici\obj\Debug\Exiff değiştirici.pdb
